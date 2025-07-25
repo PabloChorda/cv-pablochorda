@@ -3,7 +3,7 @@
 <img src="public/pablochorda.jpg" height="90px" width="auto" /> 
 
 <h2>
-    <em>Curriculum: </em>Pablo Chorda
+    <em>Curriculum: </em>Pablo Chorda P.
 </h2>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
@@ -13,33 +13,24 @@ Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.or
 </div>
 
 <div align="center">
-    <a href="#🚀-empezar">
-        Empezar
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞-comandos">
-        Comandos
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://porthub-pablo-chorda.netlify.app/">
+    <a href="https://porthub-pablo-chorda.netlify.app/" target="_blank" >
         Portafolio
     </a>
-   
 </div>
 
 <p></p>
 
-<div align="center">
-
-![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-
-</div>
-
-<!--<img src="portada.png"></img>
- -->
 
 ## 🛠️ Stack
 
--   [**Astro**](https://astro.build/) - El framework web de la nueva época.
--   [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
--   [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
+-   [**Astro**](https://astro.build/)
+-   [**Typescript**](https://www.typescriptlang.org/)
+-   [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys)
+  
+---
+
+## 🔗 Demo
+
+Puedes ver la versión en vivo del proyecto aquí:  
+-   https://curriculum-pablo-chorda.netlify.app/
+-   https://port-pablo-chorda.netlify.app/
