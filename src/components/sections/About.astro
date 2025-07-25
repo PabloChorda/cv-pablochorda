@@ -1,0 +1,27 @@
+---
+import Section from "../Section.astro"
+
+const { paragraphs, title } = Astro.props as {
+    paragraphs: string[]
+    title: string
+}
+---
+
+<Section title={title ? title : "Sobre mi"}>
+    <div class="about">
+        {paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+
+    <style>
+        p {
+            margin-bottom: 6px;
+            font-size: 0.875rem;
+            line-height: 1.5;
+        }
+        .about {
+            display: flex;
+            flex-direction: column;
+            gap: 0.1rem;
+        }
+    </style>
+</Section>
