@@ -1,383 +1,423 @@
 {
     "basics": {
-        "name": "Pablo Chorda P.",
-        "label": "Desarrollador de software ☕",
-        "image": "/pablochorda.jpg",
-        "email": "pablochorda365@gmail.com",
-        "phone": "+34 607285707",
-        "url": "https://porthub-pablo-chorda.netlify.app/",
-        "summary": "Desarrollador de software, actualmente enfocado en la web con tecnologías como Astro, Nextjs y React",
-        "paragraphs": [
-            "Soy una persona proactiva, responsable y con una fuerte motivación por seguir aprendiendo y mejorar cada día. Actualmente me estoy especializando en desarrollo backend con Python, con experiencia práctica en estructuras de datos, algoritmos y la creación de APIs REST utilizando Flask y FastAPI.",
-            "En el ámbito frontend, trabajo con HTML, CSS, JavaScript y TypeScript, así como con frameworks como React y Angular. Me interesa desarrollar soluciones útiles que aporten valor real, en entornos donde pueda seguir creciendo tanto a nivel técnico como profesional.",
-            "Tengo un enfoque full-stack, combinando tecnologías como TypeScript (React/Next.js, Angular), Node.js (Express) y Python (Flask/FastAPI), con el objetivo de construir aplicaciones web modernas, funcionales y escalables."
-        ],
-        "location": {
-            "address": "",
-            "postalCode": "46270",
-            "city": "Valencia",
-            "countryCode": "ES",
-            "region": " 46270, Castello"
+      "name": "Pablo Chorda P.",
+      "label": "Desarrollador de software ☕",
+      "image": "/pablochorda.jpg",
+      "email": "pablochorda365@gmail.com",
+      "phone": "+34 607285707",
+      "url": "https://porthub-pablo-chorda.netlify.app/",
+      "summary": "Desarrollador de software, actualmente enfocado en la web con tecnologías como Astro, Nextjs y React",
+      "paragraphs": [
+        "Soy una persona proactiva, responsable y con una fuerte motivación por seguir aprendiendo y mejorar cada día. Actualmente me estoy especializando en desarrollo backend con Python, con experiencia práctica en estructuras de datos, algoritmos y la creación de APIs REST utilizando Flask y FastAPI.",
+        "En el ámbito frontend, trabajo con HTML, CSS, JavaScript y TypeScript, así como con frameworks como React y Angular. Me interesa desarrollar soluciones útiles que aporten valor real, en entornos donde pueda seguir creciendo tanto a nivel técnico como profesional.",
+        "Tengo un enfoque full-stack, combinando tecnologías como TypeScript (React/Next.js, Angular), Node.js (Express) y Python (Flask/FastAPI), con el objetivo de construir aplicaciones web modernas, funcionales y escalables."
+      ],
+      "location": {
+        "address": "",
+        "postalCode": "46270",
+        "city": "Valencia",
+        "countryCode": "ES",
+        "region": "46270, Castello"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "PabloChorda",
+          "url": "https://www.linkedin.com/in/pablo-chorda-penades-67ba35310/"
         },
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "PabloChorda",
-                "url": "https://www.linkedin.com/in/pablo-chorda-penades-67ba35310/"
-            },
-
-            {
-                "network": "GitHub",
-                "username": "PabloChorda",
-                "url": "https://github.com/PabloChorda"
-            },
-            {
-                "network": "Portafolio",
-                "username": "pablo.chorda",
-                "url": "https://porthub-pablo-chorda.netlify.app/"
-            }
-        ]
+        {
+          "network": "GitHub",
+          "username": "PabloChorda",
+          "url": "https://github.com/PabloChorda"
+        },
+        {
+          "network": "Portafolio",
+          "username": "pablo.chorda",
+          "url": "https://porthub-pablo-chorda.netlify.app/"
+        }
+      ]
     },
     "work": [
-        {
-            "name": "Roadmap Mouredev",
-            "position": "🏅 Roadmap de retos de programación organizados por MoureDev.",
-            "url": "https://github.com/PabloChorda/retos-python.git",
-            "startDate": "",
-            "endDate": null,
-            "summary": "Complete todos los retos de programación con Python.",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "Ejercicios promovidos por Mouredev",
-            "position": "🐍 Ejercicios con Python promovidos por MoureDev.",
-            "url": "https://github.com/PabloChorda/ejercicios-con-python.git" ,
-            "startDate": "",
-            "endDate": null,
-            "summary": "Desarrolle todos los ejercicios de programación con Python.",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "jsconf.es",
-            "position": "🍝 Evento de desarrollo web con Javascript organizado por Midudev.",
-            "url": "https://www.jsconf.es/",
-            "startDate": "",
-            "endDate": null,
-            "summary": "Mejoraramos el diseño web basándonos en Figma.",
-            "highlights": ["Started the company"]
-        }
+      {
+        "name": "Inet Smart ITC (cliente: CaixaBank)",
+        "position": "Soporte IT & Desarrollador Junior (Python)",
+        "url": "https://www.inet.com",
+        "startDate": "2025-08-01",
+        "endDate": null,
+        "summary": "Proyecto de migración de Windows 10 a Windows 11 para CaixaBank, con soporte presencial a usuarios, resolución de incidencias y automatización de procesos con Python.",
+        "highlights": [
+          "Migración y configuración de equipos W10→W11",
+          "Diagnóstico y soporte de HW/SW y periféricos",
+          "Automatización de tareas repetitivas con scripts en Python"
+        ]
+      }
     ],
     "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
+      {
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": [
+          "Awarded 'Volunteer of the Month'"
+        ]
+      }
     ],
     "education": [
-        {
-            "institution": "Bootcamp Mouredev.pro",
-            "url": "",
-            "area": "Frontend & Backend Developer",
-            "studyType": "Bachelor",
-            "startDate": "2024-01-01",
-            "score": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Google IT Automation with Python Professional Certificate",
-            "url": "",
-            "area": "Backend Developer",
-            "studyType": "Bachelor",
-            "startDate": "2024-01-01",
-            "endDate": "2024-08-07",
-            "score": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-
-        {
-            "institution": "Alumno de Udemy Academy",
-            "url": "",
-            "area": "Software developer",
-            "studyType": "Bachelor",
-            "startDate": "2024-01-01",
-            "endDate": "2024-12-11",
-            "score": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
+      {
+        "institution": "Bootcamp Mouredev.pro",
+        "url": "",
+        "area": "Frontend & Backend Developer",
+        "studyType": "Bachelor",
+        "startDate": "2024-01-01",
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      },
+      {
+        "institution": "Google IT Automation with Python Professional Certificate",
+        "url": "",
+        "area": "Backend Developer",
+        "studyType": "Bachelor",
+        "startDate": "2024-01-01",
+        "endDate": "2024-08-07",
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      },
+      {
+        "institution": "Alumno de Udemy Academy",
+        "url": "",
+        "area": "Software developer",
+        "studyType": "Bachelor",
+        "startDate": "2024-01-01",
+        "endDate": "2024-12-11",
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      }
     ],
     "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
+      {
+        "title": "Award",
+        "date": "2014-11-01",
+        "awarder": "Company",
+        "summary": "There is no spoon."
+      }
     ],
     "certificates": [
-        {
-            "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
-        }
+      {
+        "name": "Certificate",
+        "date": "2021-11-07",
+        "issuer": "Company",
+        "url": "https://certificate.com"
+      }
     ],
     "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
-        }
+      {
+        "name": "Publication",
+        "publisher": "Company",
+        "releaseDate": "2014-10-01",
+        "url": "https://publication.com",
+        "summary": "Description…"
+      }
     ],
     "skills": [
-        {
-            "name": "Astro",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "React Framework",
-                "SSR",
-                "Static Generation"
-            ]
-        },
-        {
-            "name": "Next.js",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "React Framework",
-                "SSR",
-                "Static Generation"
-            ]
-        },
-        {
-            "name": "Supabase",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "React Framework",
-                "SSR",
-                "Static Generation"
-            ]
-        },
-        {
-            "name": "React",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "Tailwind",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
-        },
-        {
-            "name": "TypeScript",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "JavaScript Superset"
-            ]
-        },
-        {
-            "name": "Postgresql",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "JavaScript Superset"
-            ]
-        },
-        {
-            "name": "Git",
-            "level": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente"
-            ]
-        },
-        {
-            "name": "GitHub",
-            "level": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente",
-                "Git"
-            ]
-        },
-
-        {
-            "name": "Node",
-            "level": "Avanzado",
-            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-        },
-        {
-            "name": "MySQL",
-            "level": "Avanzado",
-            "keywords": [
-                "Bases de Datos",
-                "SQL",
-                "Almacenamiento de Datos",
-                "Backend"
-            ]
-        },
-        {
-            "name": "Python",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "Django",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "HTML",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend"]
-        },
-        {
-            "name": "CSS",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-        },
-        {
-            "name": "JavaScript",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-        },
-
-        {
-            "name": "Bootstrap",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
-        }
+      {
+        "name": "Astro",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "React Framework",
+          "SSR",
+          "Static Generation"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "React Framework",
+          "SSR",
+          "Static Generation"
+        ]
+      },
+      {
+        "name": "Supabase",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "React Framework",
+          "SSR",
+          "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "JavaScript Library",
+          "UI"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "CSS Framework",
+          "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Backend",
+          "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Postgresql",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Backend",
+          "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones",
+          "Colaboración",
+          "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones",
+          "Colaboración",
+          "Código Fuente",
+          "Git"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Backend",
+          "JavaScript",
+          "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos",
+          "SQL",
+          "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "JavaScript Library",
+          "UI"
+        ]
+      },
+      {
+        "name": "Django",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "JavaScript Library",
+          "UI"
+        ]
+      },
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Backend",
+          "Fullstack"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "CSS Framework",
+          "Diseño Responsive"
+        ]
+      }
     ],
     "languages": [
-        {
-            "language": "Español",
-            "fluency": "Nativo"
-        },
-        {
-            "language": "Ingles",
-            "fluency": "B1"
-        }
+      {
+        "language": "Español",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "Ingles",
+        "fluency": "B1"
+      }
     ],
     "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
-        }
+      {
+        "name": "Wildlife",
+        "keywords": [
+          "Ferrets",
+          "Unicorns"
+        ]
+      }
     ],
     "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
+      {
+        "name": "Jane Doe",
+        "reference": "Reference…"
+      }
     ],
     "projects": [
-        {
-            "name": "Codexa",
-            "isActive": true,
-            "description": "🔸 Simulación de una landing page con fondo animado para una empresa de desarrollo de software.",
-            "highlights": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "GSAP"
-            ],
-            "url": "https://minimal-landing-page-v2.netlify.app/",
-            "github": "https://github.com/PabloChorda"
-        },
-        {
-            "name": "Cines Action",
-            "isActive": true,
-            "description": "🎬 Cines Action es una web que permite a los usuarios explorar películas disponibles, seleccionar horarios, elegir asientos y realizar reservas en salas de cine.",
-            "highlights": [
-                "React",
-                "Tailwind",
-                "TypeScript"
-            ],
-            "url": "https://app.netlify.com/projects/cines-action/overview",
-            "github": "https://github.com/PabloChorda/cines-action"
-        },
-
-        {
-            "name": "Consulta Clima",
-            "isActive": true,
-            "description": "🌦 App para consultar el clima de diferentes ciudades.",
-            "highlights": [
-                "HTML",
-                "CSS",
-                "JavaScriptº",
-                "React"
-                
-            ],
-            "url": "https://app-consulta-clima-javascript.netlify.app/",
-            "github": "https://github.com/PabloChorda"
-        },
-        {
-            "name": "Flappy Yard",
-            "isActive": true,
-            "description": "🕹 Minijuego inspirado en el Flappy Bird... Vuela para no estrellarte! .",
-            "highlights": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "url": "https://github.com/PabloChorda/flappy-bird",
-            "github": "https://github.com/PabloChorda"
-        },
-        {
-            "name": "Pcp Solutions",
-            "description": "◽️ Landing page minimalista para ofrecer mis servicios de desarrollo web.",
-            "highlights": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "GSAP"
-            ],
-            "url": "https://minimalism-landing.netlify.app/",
-            "github": "https://github.com/PabloChorda"
-        }
-
+      {
+        "name": "Codexa",
+        "isActive": true,
+        "description": "🔸 Simulación de una landing page con fondo animado para una empresa de desarrollo de software.",
+        "highlights": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "GSAP"
+        ],
+        "url": "https://minimal-landing-page-v2.netlify.app/",
+        "github": "https://github.com/PabloChorda"
+      },
+      {
+        "name": "Cines Action",
+        "isActive": true,
+        "description": "🎬 Cines Action es una web que permite a los usuarios explorar películas disponibles, seleccionar horarios, elegir asientos y realizar reservas en salas de cine.",
+        "highlights": [
+          "React",
+          "Tailwind",
+          "TypeScript"
+        ],
+        "url": "https://app.netlify.com/projects/cines-action/overview",
+        "github": "https://github.com/PabloChorda/cines-action"
+      },
+      {
+        "name": "Consulta Clima",
+        "isActive": true,
+        "description": "🌦 App para consultar el clima de diferentes ciudades.",
+        "highlights": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "url": "https://app-consulta-clima-javascript.netlify.app/",
+        "github": "https://github.com/PabloChorda"
+      },
+      {
+        "name": "Flappy Yard",
+        "isActive": true,
+        "description": "🕹 Minijuego inspirado en el Flappy Bird... Vuela para no estrellarte! .",
+        "highlights": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "url": "https://github.com/PabloChorda/flappy-bird",
+        "github": "https://github.com/PabloChorda"
+      },
+      {
+        "name": "Pcp Solutions",
+        "description": "◽️ Landing page minimalista para ofrecer mis servicios de desarrollo web.",
+        "highlights": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "GSAP"
+        ],
+        "url": "https://minimalism-landing.netlify.app/",
+        "github": "https://github.com/PabloChorda"
+      },
+      {
+        "name": "Roadmap Mouredev",
+        "isActive": false,
+        "description": "🏅 Roadmap de retos de programación organizados por MoureDev.",
+        "highlights": [
+          "Python",
+          "Algoritmos",
+          "Estructuras de datos"
+        ],
+        "url": "https://github.com/PabloChorda/retos-python.git"
+      },
+      {
+        "name": "Ejercicios promovidos por Mouredev",
+        "isActive": false,
+        "description": "🐍 Ejercicios con Python promovidos por MoureDev.",
+        "highlights": [
+          "Python",
+          "Ejercicios prácticos"
+        ],
+        "url": "https://github.com/PabloChorda/ejercicios-con-python.git"
+      },
+      {
+        "name": "jsconf.es",
+        "isActive": false,
+        "description": "🍝 Evento de desarrollo web con Javascript organizado por Midudev.",
+        "highlights": [
+          "Figma",
+          "Frontend",
+          "Diseño web"
+        ],
+        "url": "https://www.jsconf.es/"
+      }
     ]
-}
+  }
+  

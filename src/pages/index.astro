@@ -17,6 +17,7 @@ import type {
     Skills as SkillsType,
     Education as EducationType,
 } from "@/cv"
+
 const lang = getLangFromUrl(Astro.url)
 const t = useTranslations(lang)
 
@@ -26,17 +27,19 @@ const projects = t("projects") as ProjectsType[]
 const experience = t("work") as Work[]
 const skills = t("skills") as SkillsType[]
 const education = t("education") as EducationType[]
-console.log(education)
 ---
 
 <Layout title={`Curriculum de ${basics.name} - ${basics.label}`}>
     <main>
         <Hero basics={basics} languages={languages} />
         <About paragraphs={basics.paragraphs} />
+
+        {experience?.length > 0 && (
+            <Experience experience={experience} title="Experiencia" />
+        )}
+
         <Projects projects={projects} />
         <!--<Languages />  -->
-        <Experience experience={experience} />
-
         <Skills skills={skills} />
         <Education education={education} />
     </main>
