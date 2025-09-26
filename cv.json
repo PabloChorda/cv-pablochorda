@@ -44,11 +44,11 @@
         "url": "https://www.inet.com",
         "startDate": "2025-08-01",
         "endDate": null,
-        "summary": "Proyecto de migración de Windows 10 a Windows 11 para CaixaBank, con soporte presencial a usuarios, resolución de incidencias y automatización de procesos con Python.",
+        "summary": "Proyecto de migración para CaixaBank, con automatización de procesos con Python.",
         "highlights": [
-          "Migración y configuración de equipos W10→W11",
+          "Automatización de tareas repetitivas con scripts en Python",
           "Diagnóstico y soporte de HW/SW y periféricos",
-          "Automatización de tareas repetitivas con scripts en Python"
+          "Migración y configuración de equipos W10→W11"
         ]
       }
     ],
