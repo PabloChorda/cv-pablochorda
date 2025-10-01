@@ -33,4 +33,4 @@ Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.or
 
 Puedes ver la versión en vivo del proyecto aquí:  
 -   https://curriculum-pablo-chorda.netlify.app/
--   https://port-pablo-chorda.netlify.app/
+-   https://porthub-pablo-chorda.netlify.app/
